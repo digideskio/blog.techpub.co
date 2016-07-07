@@ -1,0 +1,21 @@
+{
+  "name": "Datablog",
+  "description": "Let's code in style",
+  "scripts": {
+  },
+  "env": {
+    "": {
+      "generator": "secret"
+    }
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "heroku/ruby"
+    }
+  ]
+}
